@@ -20,7 +20,6 @@ def monopoly_with_second_tier
 	}
 end
 
-#sets the second key of the :railroads hash to a symbol, :names, whose value is an empty hash 
 	  
 def monopoly_with_third_tier
 	#copy and paste the monopoly hash you built in the previous method. We're going to add stuff to it here!
